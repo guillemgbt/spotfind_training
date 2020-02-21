@@ -1,0 +1,2 @@
+model_checkpoint_path: "is_lot_checkpoints"
+all_model_checkpoint_paths: "is_lot_checkpoints"
