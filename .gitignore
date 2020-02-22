@@ -225,3 +225,10 @@ pk_lot_detector/faster-rcnn-resnet50-coco/faster_rcnn_resnet50_coco/
 pk_lot_detector/faster-rcnn-resnet50-coco/fine_tuned_model/
 pk_lot_detector/faster-rcnn-resnet50-coco/models/
 
+pk_lot_detector/ssd-mobilenet-v2-coco/data/training800.record
+pk_lot_detector/ssd-mobilenet-v2-coco/data/test200.record
+
+pk_lot_detector/ssd-mobilenet-v2-coco/fine_tuned_model/
+pk_lot_detector/ssd-mobilenet-v2-coco/models/
+pk_lot_detector/ssd-mobilenet-v2-coco/ssd_mobilenet_v2_coco_2018_03_29/
+
