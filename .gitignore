@@ -218,3 +218,10 @@ dmypy.json
 pk_lot_detector/pk-lot-dataset-modified/test/
 pk_lot_detector/pk-lot-dataset-modified/training/
 
+pk_lot_detector/faster-rcnn-resnet50-coco/data/training800.record
+pk_lot_detector/faster-rcnn-resnet50-coco/data/test200.record
+
+pk_lot_detector/faster-rcnn-resnet50-coco/faster_rcnn_resnet50_coco/
+pk_lot_detector/faster-rcnn-resnet50-coco/fine_tuned_model/
+pk_lot_detector/faster-rcnn-resnet50-coco/models/
+
