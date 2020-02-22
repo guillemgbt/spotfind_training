@@ -214,3 +214,5 @@ dmypy.json
 .pyre/
 
 # End of https://www.gitignore.io/api/macos,python,images,jupyternotebooks
+
+pk_lot_detector/pk-lot-dataset-modified/test/
