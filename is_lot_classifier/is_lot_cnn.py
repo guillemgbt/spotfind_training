@@ -4,7 +4,7 @@ import numpy as np
 
 class IsLotCNN(object):
 
-    def __init__(self, model_filepath='export/frozen_network.pb'):
+    def __init__(self, model_filepath='export/is_lot_frozen_network.pb'):
         self.model_filepath = model_filepath
         self.load_graph(model_filepath = self.model_filepath)
 
